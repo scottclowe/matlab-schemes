@@ -1,0 +1,32 @@
+# Omega - MATLAB color scheme
+# Created by Scott Lowe, 2013-09-03
+# Based on the GTK stylesheet "Omega"
+# https://wiki.gnome.org/Projects/GtkSourceView/StyleSchemes
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Bfalse
+EditorCodeBlockDividers=Btrue
+Editorhighlight-caret-row-boolean=Btrue
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-2370348
+ColorsBackground=C-12764357
+Colors_M_Keywords=C-8142268
+Colors_M_Comments=C-7828859
+Colors_M_Strings=C-2185192
+Colors_M_UnterminatedStrings=C-202417
+Colors_M_SystemCommands=C-4820049
+Colors_M_Errors=C-3407872
+Colors_HTML_HTMLLinks=C-10592257
+Colors_M_Warnings=C-1103575
+ColorsMLintAutoFixBackground=C-6029312
+Editor.VariableHighlighting.Color=C-11625978
+Editor.NonlocalVariableHighlighting.TextColor=C-3253248
+Editorhighlight-lines=C-12764357
+Editorhighlight-caret-row-boolean-color=C-11184301
+EditorRightTextLimitLineColor=C-1118484
+
