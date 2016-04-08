@@ -10,7 +10,7 @@ If you have multiple colorschemes to add, make a pull request for each of them.
 It is preferable to include a screenshot demonstrating an example of your new MATLAB theme.
 To make your screenshot, 
 
-- Load your color scheme `schemer_import('yourscheme.prf')`
+- Load your color scheme `schemer_import('yourscheme.prf, 1')`
 - Exit MATLAB `exit();`
 - Reopen MATLAB
 - Open the [matlab-schemer/develop/sample.m] file and take a screenshot with your favourite screenshot program.
@@ -89,7 +89,7 @@ every time.
     wmctrl -r "$WINDOW_NAME" -e 0,100,100,700,650;
     # Try getting screenshot with Imagemagick, and cropping it down to the
     # just the relevant section
-    wmctrl -a "$WINDOW_NAME"; sleep 0.1; import -window root -crop 666x379+134+249 +repage "$SCHEME_NAME.png";
+    wmctrl -a "$WINDOW_NAME"; sleep 0.1; import -window root -crop 667x379+134+249 +repage "$SCHEME_NAME.png";
     # Inspect the result
     xdg-open "$SCHEME_NAME.png";
     # Is it cropped correctly?
