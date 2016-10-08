@@ -1,0 +1,33 @@
+# darkmich - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 8.5.0.197613 (R2015a)
+# Sat Oct 08 09:59:07 EDT 2016
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Btrue
+EditorCodeBlockDividers=Btrue
+Editorhighlight-caret-row-boolean=Btrue
+EditorRightTextLineVisible=Bfalse
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-1390525
+ColorsBackground=C-14474461
+Colors_M_Keywords=C-16732241
+Colors_M_Comments=C-5921889
+Colors_M_Strings=C-4694320
+Colors_M_UnterminatedStrings=C-65536
+Colors_M_SystemCommands=C-2625531
+Colors_M_Errors=C-5104105
+Colors_HTML_HTMLLinks=C-16711681
+Colors_M_Warnings=C-65536
+ColorsMLintAutoFixBackground=C-11974594
+Editor.VariableHighlighting.Color=C-10066330
+Editor.NonlocalVariableHighlighting.TextColor=C-16729641
+Editorhighlight-lines=C-13421773
+Editorhighlight-caret-row-boolean-color=C-11513776
+EditorRightTextLimitLineColor=C-3355444
+Color_CmdWinWarnings=C-3503130
+Color_CmdWinErrors=C-65536
