@@ -1,0 +1,33 @@
+# galaxy - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 9.5.0.944444 (R2018b)
+# Sat Nov 03 12:49:43 PDT 2018
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Btrue
+EditorCodeBlockDividers=Bfalse
+Editorhighlight-caret-row-boolean=Bfalse
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-11682066
+ColorsBackground=C-16777216
+Colors_M_Keywords=C-256
+Colors_M_Comments=C-16711936
+Colors_M_Strings=C-4587265
+Colors_M_UnterminatedStrings=C-5046272
+Colors_M_SystemCommands=C-5010432
+Colors_M_Errors=C-65536
+Colors_HTML_HTMLLinks=C-16776961
+Colors_M_Warnings=C-27648
+ColorsMLintAutoFixBackground=C-1121868
+Editor.VariableHighlighting.Color=C-3479320
+Editor.NonlocalVariableHighlighting.TextColor=C-16735325
+Editorhighlight-lines=C-12632257
+Editorhighlight-caret-row-boolean-color=C-2167080
+EditorRightTextLimitLineColor=C-3355444
+Color_CmdWinWarnings=C-39936
+Color_CmdWinErrors=C-1703936
