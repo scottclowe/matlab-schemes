@@ -66,6 +66,11 @@ Based on the [GTK stylesheet], "Vibrant", by Lateef Alabi-Oki.
 
 ![Vibrant sample](screenshots/vibrant.png)
 
+### VS2017-Dark
+By [@barrypp](https://github.com/barrypp). Based on VS2017 Dark theme.
+
+![Monokai sample](screenshots/VS2017-Dark.png)
+
 
 Default
 -------

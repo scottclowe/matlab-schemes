@@ -1,0 +1,33 @@
+# VS2017-Dark - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 9.5.0.944444 (R2018b)
+# Sun Nov 25 05:20:09 CST 2018
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Btrue
+EditorCodeBlockDividers=Btrue
+Editorhighlight-caret-row-boolean=Bfalse
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-13158600
+ColorsBackground=C-14803426
+Colors_M_Keywords=C-11625258
+Colors_M_Comments=C-11033014
+Colors_M_Strings=C-2712187
+Colors_M_UnterminatedStrings=C-2712187
+Colors_M_SystemCommands=C-7493938
+Colors_M_Errors=C-2876672
+Colors_HTML_HTMLLinks=C-7493938
+Colors_M_Warnings=C-2858496
+ColorsMLintAutoFixBackground=C-13424617
+Editor.VariableHighlighting.Color=C-14266504
+Editor.NonlocalVariableHighlighting.TextColor=C-16745598
+Editorhighlight-lines=C-15329770
+Editorhighlight-caret-row-boolean-color=C-2167080
+EditorRightTextLimitLineColor=C-3355444
+Color_CmdWinWarnings=C-2858496
+Color_CmdWinErrors=C-2876672
