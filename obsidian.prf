@@ -1,0 +1,85 @@
+# Obsidian - MATLAB color scheme
+# Created by Mark Verveld, 2018-12-06
+# Inspired by the Notepad++ theme "Obsidian", by Joni Eskelinen.
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Btrue
+EditorCodeBlockDividers=Btrue
+Editorhighlight-caret-row-boolean=Btrue
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I2                               # Width of bar for right-hand text limit
+ColorsText=C-2039068                                           # Main text colour
+ColorsBackground=C-14077644                                    # Main background colour
+Colors_M_Keywords=C-7092381                                    # Text for keywords (function, for, end, etc)
+Colors_M_Comments=C-10062725                                   # Text for comments
+Colors_M_Strings=C-31735                                       # Text for strings
+Colors_M_UnterminatedStrings=C-202417                          # Text for unterminated strings
+Colors_M_SystemCommands=C-11891517                             # Text for shell commands
+Colors_M_Errors=C-53398                                        #*Editor error messages and underlines, go-to bars
+Colors_HTML_HTMLLinks=C-6385153                                # Text for URLs
+Color_CmdWinWarnings=C-26368                                   #^Command window Warning text
+Color_CmdWinErrors=C-53398                                     #^Command window Error text
+Colors_M_Warnings=C-26368                                      #*Editor Warning underlines and go-to-warning bars
+ColorsMLintAutoFixBackground=C-11184811                        # Background for autofixable
+Editor.VariableHighlighting.Color=C-11707294                   #*Background for occurances of current variable
+Editor.NonlocalVariableHighlighting.TextColor=C-10502209       # Text for global variables
+Editorhighlight-lines=C-14474461                               # Background of current cell
+Editorhighlight-caret-row-boolean-color=C-13682372             # Background of current line
+EditorRightTextLimitLineColor=C-13682372                       # Colour of bar for right-hand text limit
+
+#Legend
+#  * = Preference does not update until after restarting MATLAB
+#  ^ = Preference not present on all versions of MATLAB
+
+Editor.Language.MuPAD.Color.keyword=C-7092381
+Editor.Language.MuPAD.Color.operator=C-11891517
+Editor.Language.MuPAD.Color.block-comment=C-10062725
+Editor.Language.MuPAD.Color.option=C-202417
+Editor.Language.MuPAD.Color.string=C-31735
+Editor.Language.MuPAD.Color.function=C-10585012
+Editor.Language.MuPAD.Color.constant=C-10502209
+Editor.Language.TLC.Color.Colors_M_SystemCommands=C-7092381
+Editor.Language.TLC.Color.Colors_M_Keywords=C-11891517
+Editor.Language.TLC.Color.Colors_M_Comments=C-10062725
+Editor.Language.TLC.Color.string-literal=C-31735
+Editor.Language.C.Color.keywords=C-7092381
+Editor.Language.C.Color.line-comment=C-10062725
+Editor.Language.C.Color.string-literal=C-31735
+Editor.Language.C.Color.preprocessor=C-11891517
+Editor.Language.C.Color.char-literal=C-202417
+Editor.Language.C.Color.errors=C-53398
+Editor.Language.Java.Color.keywords=C-7092381
+Editor.Language.Java.Color.line-comment=C-10062725
+Editor.Language.Java.Color.string-literal=C-31735
+Editor.Language.Java.Color.char-literal=C-202417
+Editor.Language.VHDL.Color.Colors_M_Keywords=C-7092381
+Editor.Language.VHDL.Color.operator=C-11891517
+Editor.Language.VHDL.Color.Colors_M_Comments=C-10062725
+Editor.Language.VHDL.Color.string-literal=C-31735
+Editor.Language.Verilog.Color.Colors_M_Comments=C-10062725
+Editor.Language.Verilog.Color.operator=C-11891517
+Editor.Language.Verilog.Color.Colors_M_Keywords=C-7092381
+Editor.Language.Verilog.Color.string-literal=C-31735
+Editor.Language.XML.Color.error=C-53398
+Editor.Language.XML.Color.tag=C-7092381
+Editor.Language.XML.Color.attribute=C-202417
+Editor.Language.XML.Color.operator=C-11891517
+Editor.Language.XML.Color.value=C-31735
+Editor.Language.XML.Color.comment=C-10062725
+Editor.Language.XML.Color.doctype=C-6385153
+Editor.Language.XML.Color.ref=C-202417
+Editor.Language.XML.Color.pi-content=C-6385153
+Editor.Language.XML.Color.cdata-section=C-10502209
+Editor.Language.VRML.Color.keyword=C-6385153
+Editor.Language.VRML.Color.node-keyword=C-7092381
+Editor.Language.VRML.Color.field-keyword=C-202417
+Editor.Language.VRML.Color.data-type-keyword=C-10502209
+Editor.Language.VRML.Color.terminal-symbol=C-11891517
+Editor.Language.VRML.Color.comment=C-10062725
+Editor.Language.VRML.Color.string=C-31735
+
