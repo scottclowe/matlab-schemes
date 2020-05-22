@@ -1,6 +1,6 @@
 # VSCode_DarkPlus - MATLAB color scheme
 # Generated with schemer_export v1.4.0, on MATLAB 9.6.0.1072779 (R2019a)
-# Fri May 22 10:37:22 BST 2020
+# Fri May 22 11:14:52 BST 2020
 # To enable this color scheme in MATLAB use schemer_import, available at:
 #     https://github.com/scottclowe/matlab-schemer
 #     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
@@ -22,10 +22,10 @@ Colors_M_UnterminatedStrings=C-3239560
 Colors_M_SystemCommands=C-7493938
 Colors_M_Errors=C-3053207
 Colors_HTML_HTMLLinks=C-7493938
-Colors_M_Warnings=C-2858496
+Colors_M_Warnings=C-2852352
 ColorsMLintAutoFixBackground=C-13424617
-Editor.VariableHighlighting.Color=C-14266504
-Editor.NonlocalVariableHighlighting.TextColor=C-16745598
+Editor.VariableHighlighting.Color=C-13419968
+Editor.NonlocalVariableHighlighting.TextColor=C-9060609
 Editorhighlight-lines=C-14803426
 Editorhighlight-caret-row-boolean-color=C-2167080
 EditorRightTextLimitLineColor=C-3355444
