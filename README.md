@@ -67,7 +67,7 @@ Based on the [GTK stylesheet], "Vibrant", by Lateef Alabi-Oki.
 ![Vibrant sample](screenshots/vibrant.png)
 
 ### Visual Studio Code Dark+ (default dark)
-Based on the VS Code theme Dark+ and [VS2017-Dark](https://github.com/barrypp/matlab-schemes) by [@barrypp](https://github.com/barrypp).
+By [@TheForgotten](https://github.com/TheForgottened). Based on the VS Code theme Dark+ and [VS2017-Dark](https://github.com/barrypp/matlab-schemes) by [@barrypp](https://github.com/barrypp).
 
 ![VS Code Dark Plus Sample](screenshots/VSCode_DarkPlus.PNG)
 
