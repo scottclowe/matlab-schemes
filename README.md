@@ -71,7 +71,7 @@ Based on the VS Code theme Dark+ and [VS2017-Dark](https://github.com/barrypp/ma
 
 ![VS Code Dark Plus Sample](screenshots/VSCode_DarkPlus.PNG)
 
-To get an even closer match, go to Home > Preferences (in environment section) > Fonts and change the "Desktop code font" to Consolas Plain.
+To get an even closer match, go to Home > Preferences (in environment section) > Fonts and change the "Desktop code font" to Consolas Plain. I also set my font size to 11.
 
 
 Default
