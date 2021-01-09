@@ -11,7 +11,7 @@ Samples
 ### Atom One Dark
 Based on the [Atom One Dark Syntax](https://github.com/atom/one-dark-syntax).
 
-![Atom One Dark sample](screenshots/atom-one-dark-example.png)
+![Atom One Dark sample](screenshots/atom-one-dark-example.PNG)
 
 ### Cobalt
 Based on the [GTK stylesheet], "Cobalt", by Will Farrington.
