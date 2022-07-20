@@ -1,0 +1,33 @@
+# pastel - an eye-relaxing MATLAB color scheme by Nicolas Aubert
+# Generated with schemer_export v1.4.0, on MATLAB 9.12.0.1927505 (R2022a) Update 1
+# Wed Jul 20 18:44:13 CEST 2022
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Btrue
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Bfalse
+EditorCodeBlockDividers=Bfalse
+Editorhighlight-caret-row-boolean=Btrue
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-986896
+ColorsBackground=C-12829636
+Colors_M_Keywords=C-4526337
+Colors_M_Comments=C-8355712
+Colors_M_Strings=C-794949
+Colors_M_UnterminatedStrings=C-26168
+Colors_M_SystemCommands=C-5075968
+Colors_M_Errors=C-26168
+Colors_HTML_HTMLLinks=C-11682066
+Colors_M_Warnings=C-26168
+ColorsMLintAutoFixBackground=C-8934352
+Editor.VariableHighlighting.Color=C-8355712
+Editor.NonlocalVariableHighlighting.TextColor=C-3551489
+Editorhighlight-lines=C-197412
+Editorhighlight-caret-row-boolean-color=C-11513776
+EditorRightTextLimitLineColor=C-3355444
+Color_CmdWinWarnings=C-2196224
+Color_CmdWinErrors=C-26168
