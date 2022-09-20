@@ -44,6 +44,11 @@ by Paolo Borelli and GtkSourceView.
 
 ![Oblivion sample](screenshots/oblivion.png)
 
+### Pastel
+By [@berjine](https://github.com/berjine), a relaxing theme for your eyes.
+
+![Pastel sample](screenshots/pastel.png)
+
 ### Solarised Dark
 Based on the [Solarized][Solarized] (1.0.0beta2) palette, in dark mode,
 by [Ethan Schoonover].
