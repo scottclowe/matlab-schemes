@@ -66,6 +66,10 @@ Based on the [GTK stylesheet], "Vibrant", by Lateef Alabi-Oki.
 
 ![Vibrant sample](screenshots/vibrant.png)
 
+### Nord
+Based on the [Nord Color Palettes].
+
+![Nord sample](screenshots/nord.png)
 
 Default
 -------
@@ -82,3 +86,4 @@ color preferences file.
   [Solarized]: http://ethanschoonover.com/solarized
   [Ethan Schoonover]: http://ethanschoonover.com/
   [Tango Desktop Project]: http://tango-project.org/
+  [Nord Color Palettes]: https://www.nordtheme.com/docs/colors-and-palettes

@@ -1,0 +1,33 @@
+# nord - MATLAB color scheme
+# Generated with schemer_export v1.4.0, on MATLAB 9.12.0.1956245 (R2022a) Update 2
+# Fri Jan 06 15:41:23 GMT+01:00 2023
+# To enable this color scheme in MATLAB use schemer_import, available at:
+#     https://github.com/scottclowe/matlab-schemer
+#     https://www.mathworks.com/matlabcentral/fileexchange/53862-matlab-schemer
+ColorsUseSystem=Bfalse
+ColorsUseMLintAutoFixBackground=Bfalse
+Editor.VariableHighlighting.Automatic=Btrue
+Editor.NonlocalVariableHighlighting=Btrue
+EditorCodepadHighVisible=Bfalse
+EditorCodeBlockDividers=Bfalse
+Editorhighlight-caret-row-boolean=Btrue
+EditorRightTextLineVisible=Btrue
+EditorRightTextLimitLineWidth=I1
+ColorsText=C-2564375
+ColorsBackground=C-13749184
+Colors_M_Keywords=C-4234902
+Colors_M_Comments=C-8281663
+Colors_M_Strings=C-6046068
+Colors_M_UnterminatedStrings=C-7814960
+Colors_M_SystemCommands=C-4944211
+Colors_M_Errors=C-3111056
+Colors_HTML_HTMLLinks=C-10583636
+Colors_M_Warnings=C-27648
+ColorsMLintAutoFixBackground=C-205
+Editor.VariableHighlighting.Color=C-16750900
+Editor.NonlocalVariableHighlighting.TextColor=C-794949
+Editorhighlight-lines=C-16777216
+Editorhighlight-caret-row-boolean-color=C-12893614
+EditorRightTextLimitLineColor=C-2564375
+Color_CmdWinWarnings=C-1324149
+Color_CmdWinErrors=C-3111056
